@@ -93,7 +93,7 @@
     transform: scale(1.2);
   }
 
-  &:hover > &__name {
+  &:hover > &__title {
     color: $secondary-accent;
   }
 }
